@@ -134,8 +134,8 @@ A standard machine learning regression pipeline was constructed to predict 100-s
 Clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/binumar07/yield-Cal.git
-cd yield-Cal
+git clone https://github.com/binumar07/cowpea-phenotypic-diversity.git
+cd cowpea-phenotypic-diversity
 pip install -r requirements.txt
 ```
 
